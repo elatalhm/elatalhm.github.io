@@ -13,14 +13,17 @@
       institution: University of Waterloo, Canada
       year: 2021 - present
       description:
-        - Platform Security
+        - System Security
         - 'Supervisor: Prof. N. Asokan'
         - title: 'Topics:'
           contents:
-            - HW-assisted defenses, TEEs, memory safety, side channels
+            - HW-assisted security, heterogenous TEEs, confidential computing, memory safety, side channels
         - title: 'Skills:'
           contents:
-            - Microarchitecture development, Chisel/Verilog, RISC-V, LLVM, C++, Assembly
+            - Microarchitecture development (Chisel/Verilog, RISC-V, x86, cache coherence)
+            - ML HW acceleration (TPU/NPU/GPU)
+            - Compiler extensions (LLVM)
+            - Firmware and operating systems (C/C++, Assembly, Linux)
     - title: M.Sc. INFOTECH
       institution: University of Stuttgart, Germany
       year: 2015
