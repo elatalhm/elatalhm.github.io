@@ -12,10 +12,10 @@
             - HW-assisted security, heterogenous TEEs, confidential computing, memory safety, side channels
         - title: 'Skills:'
           contents:
-            - Microarchitecture development (Chisel/Verilog, RISC-V, x86, cache coherence)
+            - Microarchitecture development (Chisel/Verilog, RISC-V, AArch64, QEMU, cache coherence)
             - ML HW acceleration (TPU/NPU/GPU)
             - Compiler extensions (LLVM)
-            - Firmware and operating systems (C/C++, Assembly, Linux)
+            - Firmware and operating systems (C/C++, Assembly, Linux kernel, UEFI)
     - title: M.Sc. INFOTECH
       institution: University of Stuttgart, Germany
       year: 2015
