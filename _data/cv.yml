@@ -37,6 +37,9 @@
 - title: Experience
   type: time_table
   contents:
+    - title: Intern
+      year: 2025
+      institution: Huawei, Helsinki System Security Lab
     - title: Technical Lead
       year: 2020 - 2021
       institution: Mentor, a Siemens Business
