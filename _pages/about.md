@@ -21,11 +21,3 @@ Welcome to my website! I'm Hossam, a PhD student at the University of Waterloo u
 My current research is on hardware-assisted security mechanisms, including trusted execution environments, memory safety and side-channel resistance. One of the projects I'm working on is BliMe {% cite blime24 %}, which enables secure side-channel-resistant outsourced computation, even when all software running on the server is malicious. You can read more about it [here](https://ssg-research.github.io/platsec/blime).
 
 My skills span both hardware and software. My previous job had a lot of C/C++ development (ranging from USB drivers to GUI work), and my current project has me doing a lot of Chisel/Verilog, assembly and C++. I also have extensive experience with simulation/emulation for computer architecture (gem5,QEMU), where I've designed and implemented novel security features. I also have experience with Linux kernel and LLVM development, which was needed to add support for those security features.
-
-<!--
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
-
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
--->
